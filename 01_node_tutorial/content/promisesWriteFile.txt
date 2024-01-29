@@ -1,0 +1,5 @@
+This file is written with the help of promises as
+
+const { readFile, writeFile } = require('fs').promises
+
+Use this as shown in above. 

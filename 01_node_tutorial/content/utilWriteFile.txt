@@ -1,0 +1,5 @@
+This file is written with the help of util as
+
+const util = require('util')
+const utilReadFile = util.promisify(readFile)
+const utilWriteFile = util.promisify(writeFile)

@@ -1,0 +1,12 @@
+
+
+This is third text file.
+
+This contains text files of first and second as shown in below
+
+This is first text file. 
+
+This is second text file.
+
+This flag:'a' will append the same content again
+
